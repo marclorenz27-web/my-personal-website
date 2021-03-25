@@ -95,6 +95,7 @@ h2 {
     border-radius: 50%;
     border: 2px solid black;
     align-self: center;
+    display: none;
 }
 
 main > #greeting > h1 {
