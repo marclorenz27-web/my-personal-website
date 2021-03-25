@@ -32,8 +32,6 @@ nav {
     padding: 1vw;
 }
 
-
-
 nav > a {
     color: white;
     margin: 0 1vmin; 
@@ -88,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
     text-transform: uppercase;
 }
-
+/* 
 #my-picture{
     width: 200px;
     height: 200px;
@@ -96,7 +94,7 @@ h2 {
     border: 2px solid black;
     align-self: center;
     display: none;
-}
+} */
 
 main > #greeting > h1 {
     font-size: 2em;
