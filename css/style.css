@@ -85,12 +85,20 @@ p {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
-h2{
+h2 {
     text-transform: uppercase;
 }
 
-main > #greeting > h1 {
+#my-picture{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid black;
+    align-self: center;
+}
 
+main > #greeting > h1 {
+    font-size: 2em;
 }
 
 main > #greeting {
